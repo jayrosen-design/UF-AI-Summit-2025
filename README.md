@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/936140914.svg)](https://doi.org/10.5281/zenodo.14901945)
+
 # UF AI Summit 2025  
 **Exploring AI & Augmented Reality in Education**  
 
